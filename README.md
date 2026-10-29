@@ -13,9 +13,10 @@
 
 ## Project Overview
 
-Author: Denise Case
+Author: Jakiel David
 
-Date: 2026 October
+Date: 2026 28 October
+
 
 This project introduces anomaly detection using a static dataset.
 
