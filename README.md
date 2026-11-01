@@ -15,7 +15,7 @@
 
 Author: Jakiel David
 
-Date: 2026 28 October
+Date: 2026 October
 
 
 This project introduces anomaly detection using a static dataset.
